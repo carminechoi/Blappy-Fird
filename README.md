@@ -1,8 +1,10 @@
-# Blappy-Fird
+# BlappyFird
+Check out my FlappyBird Clone made using Pygame with Python
+
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+1. Python 3.X
+  found [here](https://www.python.org/downloads/)
 ```
 Give examples
 ```
