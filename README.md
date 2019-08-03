@@ -25,7 +25,7 @@ $ pipenv run python game.py
 
 ## Demonstration
 
-![](https://gph.is/g/4zwDryw) 
+![](https://media.giphy.com/media/TIFCQ1Evoe5Vncl85R/giphy.gif) 
 
 ## Built With
 
