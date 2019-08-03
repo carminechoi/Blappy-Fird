@@ -4,8 +4,10 @@ Check out my FlappyBird Clone made using Pygame with Python
 ### Prerequisites
 
 1. Python 3.x.x
+  
   Found [here](https://www.python.org/downloads/)
 2. Pygame v1.9.x
+  
   Found [here](http://www.pygame.org/download.shtml)
 
 ### Installing
@@ -13,9 +15,10 @@ Check out my FlappyBird Clone made using Pygame with Python
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
+1. Clone the Repository
 
 ```
-Give the example
+
 ```
 
 And repeat
