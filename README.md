@@ -23,6 +23,10 @@ $ pipenv install
 $ pipenv run python game.py
 ```
 
+3. Have fun! 
+
+I worked hard on this shit. You better Fucking be having fun
+
 ## Demonstration
 
 ![](https://media.giphy.com/media/TIFCQ1Evoe5Vncl85R/giphy.gif) 
