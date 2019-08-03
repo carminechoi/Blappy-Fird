@@ -3,25 +3,24 @@ Check out my FlappyBird Clone made using Pygame with Python
 
 ### Prerequisites
 
-1. Python 3.x.x   Download [here](https://www.python.org/downloads/)
+1. [Python 3.x.x](https://www.python.org/downloads/)
   
-2. Pygame v1.9.x  Download [here](http://www.pygame.org/download.shtml)
+2. [Pygame v1.9.x](http://www.pygame.org/download.shtml)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 1. Clone the Repository
 
 ```
-
+$ git clone https://github.com/carminechoi/Blappy-Fird.git
 ```
 
-And repeat
+or download as zip and extract.
 
+2. In the root directory, run
 ```
-until finished
+$pipenv install
+$pipenv run python game.py
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
