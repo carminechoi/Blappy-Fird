@@ -3,12 +3,9 @@ Check out my FlappyBird Clone made using Pygame with Python
 
 ### Prerequisites
 
-1. Python 3.x.x
+1. Python 3.x.x   Download [here](https://www.python.org/downloads/)
   
-  Found [here](https://www.python.org/downloads/)
-2. Pygame v1.9.x
-  
-  Found [here](http://www.pygame.org/download.shtml)
+2. Pygame v1.9.x  Download [here](http://www.pygame.org/download.shtml)
 
 ### Installing
 
