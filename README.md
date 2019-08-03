@@ -1,8 +1,6 @@
 # BlappyFird
 Check out my FlappyBird Clone made using Pygame with Python
 
-A Learning Project to get familiar with Python and Neural Networks
-
 ### Prerequisites
 
 1. [Python 3.x.x](https://www.python.org/downloads/)
@@ -27,7 +25,7 @@ $ pipenv run python game.py
 
 ## Demonstration
 
-![](blappyfird.gif) 
+![](https://gph.is/g/4zwDryw) 
 
 ## Built With
 
