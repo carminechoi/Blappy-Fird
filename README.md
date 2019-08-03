@@ -24,11 +24,16 @@ or download as zip and extract.
 $ pipenv install
 $ pipenv run python game.py
 ```
+
+## Demonstration
+
+![](blappyfird.gif)
+
 ## Built With
 
 * [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Authors
 
-* **Carmine Choi** - 
+* **Carmine Choi** 
 
