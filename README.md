@@ -27,7 +27,7 @@ $ pipenv run python game.py
 
 ## Demonstration
 
-![](blappyfird.gif)
+![](blappyfird.gif) 
 
 ## Built With
 
