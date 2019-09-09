@@ -25,7 +25,7 @@ $ pipenv run python game.py
 
 3. Have fun! 
 
-I worked hard on this shit. You better Fucking be having fun >:D
+I worked hard on this. You better Fucking be having fun >:D
 
 ## Demonstration
 
